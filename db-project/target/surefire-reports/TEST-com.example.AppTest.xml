@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.example.AppTest" time="0.703" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.example.AppTest" time="0.691" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="awt.toolkit" value="sun.awt.X11.XToolkit"/>
     <property name="java.specification.version" value="11"/>
@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="/usr/lib/jvm/java-11-openjdk-amd64/lib"/>
-    <property name="sun.java.command" value="/home/antosh/mavenmysqlProject/db-project/target/surefire/surefirebooter4982047771658658081.jar /home/antosh/mavenmysqlProject/db-project/target/surefire 2023-09-10T07-24-18_335-jvmRun1 surefire10578983469391797316tmp surefire_04592728438925825942tmp"/>
+    <property name="sun.java.command" value="/home/antosh/mavenmysqlProject/db-project/target/surefire/surefirebooter549156418703831954.jar /home/antosh/mavenmysqlProject/db-project/target/surefire 2023-09-10T08-37-07_636-jvmRun1 surefire9876253202723353698tmp surefire_013159053532519298439tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/home/antosh/mavenmysqlProject/db-project/target/test-classes:/home/antosh/mavenmysqlProject/db-project/target/classes:/home/antosh/.m2/repository/mysql/mysql-connector-java/8.0.27/mysql-connector-java-8.0.27.jar:/home/antosh/.m2/repository/com/google/protobuf/protobuf-java/3.11.4/protobuf-java-3.11.4.jar:/home/antosh/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.8.2/junit-jupiter-api-5.8.2.jar:/home/antosh/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar:/home/antosh/.m2/repository/org/junit/platform/junit-platform-commons/1.8.2/junit-platform-commons-1.8.2.jar:/home/antosh/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar:"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -31,7 +31,7 @@
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="/home/antosh/mavenmysqlProject/db-project/target/surefire/surefirebooter4982047771658658081.jar"/>
+    <property name="surefire.real.class.path" value="/home/antosh/mavenmysqlProject/db-project/target/surefire/surefirebooter549156418703831954.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="11.0.20.1+1-post-Ubuntu-0ubuntu122.04"/>
     <property name="user.name" value="antosh"/>
@@ -57,5 +57,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="55.0"/>
   </properties>
-  <testcase name="com.example.AppTest.testDatabaseConnection" classname="com.example.AppTest" time="0.684"/>
+  <testcase name="com.example.AppTest.testDatabaseConnection" classname="com.example.AppTest" time="0.681"/>
 </testsuite>
